@@ -1,2 +1,2 @@
-# Curos
+# Cursos
 Link de cursos gratuitos
