@@ -41,6 +41,6 @@
 <li><a HREF="https://www.oracle.com/br/education/">Oracle University</a></li>
 <li><a HREF="https://www.escolavirtual.gov.br">ENAP</a></li>
 <li><a HREF="https://www.datascienceacademy.com.br/cursosgratuitos">Cursos Gratuitos</a></li>
-<li><a HREF="https://https://share.google/3pwwoicHglDGU9vXA
-<br> AEB Escola Virtual https://share.google/3pwwoicHglDGU9vXA
+<li><a HREF="https://https://share.google/3pwwoicHglDGU9vXA<li><a HREF=AEB Escola Virtual https://share.google/3pwwoicHglDGU9vXA</a></li>
 </ul>
+<br>AEB Escola Virtual https://share.google/3pwwoicHglDGU9vXA
