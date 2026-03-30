@@ -1,8 +1,7 @@
 # Cursos
-Link de cursos gratuitos
-Material Didático - UFRN
-Fotografia Digital de Cambridge
-PoCA - UFSCar
+
+#Fotografia Digital de Cambridge
+#PoCA - UFSCar
 Fundação Bradesco
 Faculdade de Ensino a Distância
 Fundação Aplitech
